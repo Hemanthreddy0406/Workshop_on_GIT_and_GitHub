@@ -21,4 +21,4 @@ THE FOLLOWING ARE THE GIT CLI COMMANDS:-
    tag        Create, list, delete or verify a tag object signed with GPG
    fetch      Download objects and refs from another repository
    pull       Fetch from and integrate with another repository or a local branch
-   push       Update remote refs along with associated objects
+   push       Update remote refs along with associated objects.
